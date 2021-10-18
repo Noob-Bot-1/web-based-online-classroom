@@ -33,10 +33,10 @@ This repo is of a web-based application for online classroom management. This in
     ``` sh
     npm start
     ```
-  and in the other instance of Terminal
+   and in the other instance of Terminal: 
     ``` sh
-    cd backend
-    npm start
+     cd backend
+     npm start
     ```
  
  
