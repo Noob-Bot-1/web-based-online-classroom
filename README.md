@@ -24,20 +24,20 @@ This repo is of a web-based application for online classroom management. This in
    JWT_SECRET = xxx
    ```
 4. Now install the install dependencies of both frontend and backend.
-  ``` sh
-  npm install
-  cd backend
-  npm install
-  ```
+    ``` sh
+    npm install
+    cd backend
+    npm install
+    ```
 5. Now open another instance of Terminal and run both frontend server and backend server
-  ``` sh
-  npm start
-  ```
+    ``` sh
+    npm start
+    ```
   and in the other instance of Terminal
-  ``` sh
-  cd backend
-  npm start
-  ```
+    ``` sh
+    cd backend
+    npm start
+    ```
  
  
   
